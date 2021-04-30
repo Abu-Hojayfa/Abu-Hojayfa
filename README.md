@@ -11,6 +11,21 @@
 - ✍️ &nbsp; Playing Video Games as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
+#### 👨🏻‍💻 Currently working on:
+
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
+<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+<a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
+<a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
+<a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+<a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; React.js | Node Js | MOngoDB | Express JS  
@@ -20,7 +35,7 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abu-Hojayfa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Hojayfa's Github Stats">
 
 </br>
 
