@@ -1,16 +1,6 @@
 <h2> Hey there! I'm Hojayfa. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🔭 &nbsp; I'm currently looking for an Internship on MERN stack
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Front-end web developer.
-- 🌱 &nbsp; Enthusiast in back end and full stack .
-- ✍️ &nbsp; Playing Video Games as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
-
 #### 👨🏻‍💻 Currently working on:
 
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
@@ -25,6 +15,17 @@
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp; I'm currently looking for an Internship on MERN stack or Front End Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp; Front-end web developer.
+- 🌱 &nbsp; Enthusiast in back end and full stack .
+- ✍️ &nbsp; Playing Video Games as hobbies/side hustles.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+
 
 <h3>🛠 Tech Stack</h3>
 
