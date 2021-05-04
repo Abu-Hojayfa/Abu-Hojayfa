@@ -56,5 +56,4 @@
 &nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-##
-[Portfolio](https://hojayfa.netlify.app/)
+##[Portfolio](https://hojayfa.netlify.app/)
