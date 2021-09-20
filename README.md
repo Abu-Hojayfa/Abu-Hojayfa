@@ -45,7 +45,7 @@
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Hojayfa&layout=compact&text_color=daf7dc&bg_color=151515) 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abu-Hojayfa&layout=compact&text_color=daf7dc&bg_color=151515)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Abu-Hojayfa&theme=algolia)  
 
 
 <h3> 🤝🏻 Connect with Me </h3>
