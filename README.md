@@ -37,11 +37,11 @@
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abu-Hojayfa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Hojayfa's Github Stats">
 <br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abu-Hojayfa&layout=compact&theme=tokyonight)
 <br>
 
