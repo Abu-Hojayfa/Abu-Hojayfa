@@ -15,7 +15,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; React JS | React Native | Node Js | MongoDB | Express JS  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Tailwind CSS | Bootstrap | Material UI | React Bootstrap
+- 🌐 &nbsp; C | C++ | HTML | CSS | JavaScript | Tailwind CSS | Bootstrap | Material UI | React Bootstrap
 - 🛢 &nbsp; Heroku | Firebase | GitHub
 - 🔧 &nbsp; Post Man |  Visual Studio code | Git
 
