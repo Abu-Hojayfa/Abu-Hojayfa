@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studying Computer Science.
 - 💼 &nbsp; Front-end web developer.
 - 🌱 &nbsp; Enthusiast in back end and full stack.
-- ✍️ &nbsp; Playing Video Games as hobbies/side hustles.
+- ✍️ &nbsp; Learning Block Chain Technology as a hobby to add a dynamic layer to my skill set.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for stress. 
 
 
