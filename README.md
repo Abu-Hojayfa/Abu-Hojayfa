@@ -6,8 +6,7 @@
 - 🔭 &nbsp; I'm currently looking for an Internship on MERN stack or Front End Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science.
-- 💼 &nbsp; Front-end web developer.
-- 🌱 &nbsp; Enthusiast in back end and full stack.
+- 🌱 &nbsp; Enthusiast in Block Chain and Full Stack.
 - ✍️ &nbsp; Learning Block Chain Technology as a hobby to add a dynamic layer to my skill set.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for stress. 
 
