@@ -1,15 +1,15 @@
 <h2> Hey there! I'm Hojayfa. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I'm currently looking for an Internship on MERN stack or Front End Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 🎓 &nbsp; Studying Computer Science.
 - 💼 &nbsp; Front-end web developer.
-- 🌱 &nbsp; Enthusiast in back end and full stack .
+- 🌱 &nbsp; Enthusiast in back end and full stack.
 - ✍️ &nbsp; Playing Video Games as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for stress. 
 
 
 <h3>🛠 Tech Stack</h3>
